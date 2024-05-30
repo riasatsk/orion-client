@@ -33,7 +33,3 @@ export default class OrionServer {
     return this.proxy;
   }
 }
-
-// Usage
-// const server = new OrionServer("http://localhost:3000");
-// const app = server.getApp();
